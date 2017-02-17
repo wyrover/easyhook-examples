@@ -1,0 +1,3 @@
+[submodule "EasyHook"]
+	path = EasyHook
+	url = https://github.com/EasyHook/EasyHook.git
